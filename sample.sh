@@ -8,6 +8,6 @@ cp html/* ./docs/
 git add .
 
 git commit -s -m "Update images at `date`"
-git pull origin master --rebase
-git push origin master
+git pull origin main --rebase
+git push origin main
 
