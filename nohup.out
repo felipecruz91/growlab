@@ -1,0 +1,6 @@
+Starting growlab
+Loaded config, saving images every 600 seconds to ./images/
+{'time': '19:52:22', 'temperature': 25.262781720294537, 'pressure': 1001.7079848869303, 'humidity': 32.68946483736693}
+Saving /home/pi/growlab/image.jpg..
+Saved /home/pi/growlab/image.jpg..OK
+Wrote /home/pi/growlab/html/index.html..OK
