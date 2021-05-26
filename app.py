@@ -35,7 +35,7 @@ if __name__ == "__main__":
     frame = cam.get_frame()
 
     pwd = os.getcwd()
-    output_path = pwd + "/html"
+    output_path = pwd + "/docs"
 
     try:
        os.mkdir(output_path)
