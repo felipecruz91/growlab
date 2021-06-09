@@ -3,7 +3,7 @@ python3 app.py
 
 export GIT_SSH_COMMAND="ssh -i /home/pi/growlab/.ssh/id_rsa"
 
-#cp html/* ./docs/
+cp html/* ./docs/
 
 git add .
 
